@@ -22,4 +22,3 @@ services:
       POSTGRES_DB: authdb
     ports:
       - "5433:5432"
-      
